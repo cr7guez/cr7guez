@@ -6,6 +6,7 @@ I'm César Rodríguez, a dedicated Full-Stack Developer Junior with a strong fou
 - **Languages:** Java, Python, SQL, PHP, HTML, CSS, JavaScript
 - **Frameworks:** Open Xava, Smarty
 - **Database:** MongoDB, Microsoft SQL, PostgreSQL
+- **ERP:** Odoo, Dolibarr
 - **Tools & Others:** Git, VS Code, RESTful APIs
 
 #### 📚 Education:
