@@ -1,18 +1,55 @@
-### 👋 Hello There!
+<h3 align="left">I’m César Rodríguez, a professional Back-End Developer with a strong focus on .NET technologies. I have a solid foundation in various programming languages and web technologies, and I’m passionate about building efficient, scalable back-end solutions using the full potential of the .NET framework to ensure exceptional performance and quality.</h3>
 
-I'm César Rodríguez, a dedicated Full-Stack Developer Junior with a strong foundation in various programming languages and web technologies. I thrive on crafting seamless solutions that bridge the gap between front-end and back-end functionality.
+###
 
-#### 💼 Technical Skills:
-- **Languages:** Java, Python, SQL, PHP, HTML, CSS, JavaScript
-- **Frameworks:** Open Xava, Smarty
-- **Database:** MongoDB, Microsoft SQL, PostgreSQL
-- **ERP:** Odoo, Dolibarr
-- **Tools & Others:** Git, VS Code, RESTful APIs
+<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQHkdAA5MUJyIQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714304875946?e=1745452800&v=beta&t=uIwbxKS_SI53N4PQVhoDlBLuvS4VEYky6IyFydMn1e4"  />
 
-#### 📚 Education:
-- Institut Badia del Vallès - Web Development (DAW)
+###
 
-#### 🌱 Continuous Learning:
-I am passionate about staying abreast of the latest advancements in technology. Currently, I am focusing on Lancer Digital to further enhance my full-stack capabilities.
+<div align="left">
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+</div>
 
-Excited about contributing my skills to innovative projects and eager to continue expanding my knowledge as a Full-Stack Developer. Let's code the future together! 🚀
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/cesar-rodriguez-guez/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="cr7guez@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/cr7guez/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/cr7guez/cr7guez/output/snake.svg" alt="Snake animation" />
+
+###
